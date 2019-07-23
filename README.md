@@ -2,7 +2,7 @@
 
 Protocol for multiparty private intersection cardinality.
 
-Based on \[1\]. Developed at
+Inspired by \[1\] and developed at
 [UIC CCTS Biomedical Informatics Core](https://www.ccts.uic.edu/content/biomedical-informatics).
 
 Pronounced /emp/ sIk.
